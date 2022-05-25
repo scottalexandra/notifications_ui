@@ -9,3 +9,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * `npm start` or `yarn start`
 * * Make sure that the api is up and running. Follow the instructions in this [repo](https://github.com/scottalexandra/notifications_api).
 * Visit http://localhost:3000 to view the app in the browser
+
+![](file:///Users/alexandrascott/Downloads/screen-recorder-wed-may-25-2022-16-50-45.webm)
