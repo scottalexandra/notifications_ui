@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting Started
 
-Clone this repo
-`npm install` or `yarn install`
-`npm start` or `yarn start`
-Visit http://localhost:3000 to view the app in the browser.
-Make sure that the api is up and running. Follow the instructions in this repo.
+* Clone this repo
+* `npm install` or `yarn install`
+* `npm start` or `yarn start`
+* * Make sure that the api is up and running. Follow the instructions in this [repo](https://github.com/scottalexandra/notifications_api).
+* Visit http://localhost:3000 to view the app in the browser
